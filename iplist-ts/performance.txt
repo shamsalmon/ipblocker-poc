@@ -1,0 +1,24 @@
+blocked: 1.09ms
+blocked: 0.308ms
+blocked: 0.146ms
+blocked: 0.114ms
+blocked: 0.059ms
+blocked: 0.07ms
+blocked: 0.046ms
+blocked: 0.044ms
+blocked: 0.095ms
+blocked: 1.112ms
+
+not-blocked: 0.143ms
+not-blocked: 0.103ms
+not-blocked: 0.113ms
+not-blocked: 0.072ms
+not-blocked: 0.183ms
+not-blocked: 0.112ms
+not-blocked: 0.095ms
+not-blocked: 0.097ms
+not-blocked: 0.077ms
+not-blocked: 0.089ms
+
+max = 1.146ms for ip lookup when blocked. 
+max = 0.143ms for ip lookup when not blocked.
